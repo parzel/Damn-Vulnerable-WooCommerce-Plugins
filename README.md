@@ -15,7 +15,7 @@ The environment contains the following vulnerabilites that can be exploited:
 The wordpress installation is ready to be exploited, some of the plugins need further setup as stated below. Each plugin needs to be activated for exploitation. It is better to stick to only one activated plugin as otherwise there can be some compatibility issues.
 
 ## WriteUp
-We did writeups for all of the vulnerabilites in [this](https://parzelsec.de/static/index.html) blogpost.
+We did writeups for all of the vulnerabilites in [this](https://parzelsec.de/posts/security-advisory-to-exploit) blogpost.
 
 ## Setup
 ```
